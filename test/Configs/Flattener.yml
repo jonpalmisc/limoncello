@@ -1,0 +1,6 @@
+flattener:
+  enabled: true
+  patterns:
+    - ~main
+    - .*
+

@@ -1,0 +1,10 @@
+arithmetic-mangler:
+  enabled: true
+bloater:
+  enabled: true
+constant-mangler:
+  enabled: true
+flattener:
+  enabled: true
+string-obfuscator:
+  enabled: true

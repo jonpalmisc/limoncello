@@ -1,0 +1,2 @@
+constant-mangler:
+  enabled: true

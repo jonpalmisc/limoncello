@@ -1,0 +1,7 @@
+bloater:
+  enabled: true
+  rounds: 3
+  probability: 60
+  patterns:
+    - ~main
+    - .*

@@ -1,0 +1,4 @@
+string-obfuscator:
+  enabled: true
+  patterns:
+    - sensitive_.*

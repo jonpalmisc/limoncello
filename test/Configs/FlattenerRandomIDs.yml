@@ -1,0 +1,8 @@
+flattener:
+  enabled: true
+  patterns:
+    - ~main
+    - .*
+
+  random-case-ids: true
+  max-random-cases: 256
